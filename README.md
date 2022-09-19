@@ -1,2 +1,0 @@
-# Ninja-Gold
-Python 
